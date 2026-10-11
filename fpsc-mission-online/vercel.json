@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/daily.js": {
+      "maxDuration": 60
+    }
+  }
+}

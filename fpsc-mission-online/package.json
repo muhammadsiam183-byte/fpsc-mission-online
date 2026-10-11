@@ -1,0 +1,7 @@
+{
+  "name": "fpsc-mission-16-plus-online",
+  "version": "2.0.0",
+  "private": true,
+  "description": "FPSC daily prep with shared date cache and global two-generation-attempt daily quota",
+  "engines": {"node": ">=18"}
+}
